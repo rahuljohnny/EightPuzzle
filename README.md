@@ -1,2 +1,2 @@
 # EightPuzzle
-It's a simple 8-puzzle game based on string matching technique
+It's a simple 8-puzzle game based on string matching,will ad A* search/other game theory technique later...
